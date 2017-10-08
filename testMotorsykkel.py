@@ -1,3 +1,7 @@
+"""
+Dette programmet importerer klassen Motorsykkel, oppretter tre objekter av klassen, og tester ut
+metodene.
+"""
 from motorsykkel import Motorsykkel
 
 def hovedprogram():

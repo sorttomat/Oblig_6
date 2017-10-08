@@ -1,3 +1,8 @@
+"""
+Dette programmet importerer klassen Hund, 
+oppretter et Hund-objekt og tester ut de ulike metodene i klassen.
+"""
+
 from hund import Hund
 
 def hovedprogram():
